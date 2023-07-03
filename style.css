@@ -1,0 +1,8 @@
+.banner {
+  /* background-image: url(); */
+  background-image: url(laylatul.jpeg);
+  background-size: cover;
+  padding-top: 20%;
+  padding-bottom: 20%;
+  color: rgb(20, 20, 19);
+}
